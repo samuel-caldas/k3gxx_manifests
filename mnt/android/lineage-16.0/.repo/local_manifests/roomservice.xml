@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="lineageos/android_external_stlport" path="external/stlport" remote="github" revision="lineage-15.1" />
+  <project name="LineageOMS/merge_script" path="OMS" remote="github" revision="master" />
+  <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" />
+</manifest>
