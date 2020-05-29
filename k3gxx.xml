@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Kernel -->
-  <project name="samuelcaldas/android_kernel_samsung_k3gxx" path="kernel/samsung/k3gxx" remote="github" revision="lineage-16.0" />
-  <project name="exynos5420/android_kernel_samsung_exynos5420" path="kernel/samsung/exynos5420" remote="github" revision="lineage-15.1" />
+  <project name="samuelcaldas/android_kernel_samsung_k3gxx" path="kernel/samsung/k3gxx" remote="github" revision="cm-14.1" />
+  <project name="exynos5420/android_kernel_samsung_exynos5420" path="kernel/samsung/exynos5420" remote="github" revision="cm-14.1" />
   <!-- Devices -->
-  <project name="samuelcaldas/android_device_samsung_k3gxx" path="device/samsung/k3gxx" remote="github" revision="lineage-16.0" />
+  <project name="samuelcaldas/android_device_samsung_k3gxx" path="device/samsung/k3gxx" remote="github" revision="cm-14.1" />
   <project name="exynos5420/android_device_samsung_exynos5420-common" path="device/samsung/exynos5420-common" remote="github" />
   <!-- LOS Hardware -->
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" />
@@ -12,14 +12,14 @@
   <project name="samuelcaldas/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github"/>
   <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" />
   <!-- 5422 Hardware -->
-  <project name="samuelcaldas/android_hardware_samsung_slsi-cm_exynos5422" path="hardware/samsung_slsi-cm/exynos5422" remote="github" revision="lineage-16.0" />
-  <project name="samuelcaldas/android_hardware_samsung_slsi_exynos5422_mobicore" path="hardware/samsung_slsi-cm/exynos5422/mobicore" remote="github" revision="lineage-16.0" /> 
+  <project name="samuelcaldas/android_hardware_samsung_slsi-cm_exynos5422" path="hardware/samsung_slsi-cm/exynos5422" remote="github" revision="cm-14.1" />
+  <project name="samuelcaldas/android_hardware_samsung_slsi_exynos5422_mobicore" path="hardware/samsung_slsi-cm/exynos5422/mobicore" remote="github" revision="cm-14.1" /> 
   <project name="exynos5420/android_hardware_samsung_slsi-cm_exynos5422" path="hardware/samsung/exynos5422_slsi-cm" remote="github" />
   <project name="exynos5420/android_hardware_samsung_slsi-cm_exynos5420" path="hardware/samsung_slsi-cm/exynos5420" remote="github" />
   <!-- Packages -->
-  <project name="samuelcaldas/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="lineage-16.0" />  
+  <project name="samuelcaldas/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-14.1" />  
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
   <!-- Vendor -->
-  <project name="samuelcaldas/proprietary_vendor_samsung_k3gxx" path="vendor/samsung/k3gxx" remote="github" revision="lineage-16.0" />    
+  <project name="samuelcaldas/proprietary_vendor_samsung_k3gxx" path="vendor/samsung/k3gxx" remote="github" revision="cm-14.1" />    
   <!-- <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" /> -->
 </manifest>
