@@ -3,4 +3,5 @@
   <project name="lineageos/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
   <project name="LineageOMS/merge_script" path="OMS" remote="github" revision="master" />
   <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" />
+  <project name="samuelcaldas/k3gxx_manifests" path=".repo/local_manifests" remote="github" revision="cm-14.1" />
 </manifest>
